@@ -1,1 +1,1 @@
-# DevinDai13.github.io
+# Pelican Static Page
